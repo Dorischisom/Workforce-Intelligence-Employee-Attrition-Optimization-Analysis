@@ -61,7 +61,7 @@ Find the total number of employees who have left the organization.
 
 Find the average number of years employees have worked at the company.
 
-![Query1](Query2/Query2.png)
+![Query2](Query2/Query2.png)
 
 **Result:** The average employee tenure is **7.0082 years**. This is a key retention benchmark. Attrition patterns above or below this threshold can help HR identify whether employees are leaving before or after reaching the loyalty milestone.
 
