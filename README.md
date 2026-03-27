@@ -32,6 +32,9 @@ The dataset contains information about **1,470 employees** across various depart
 | `NumCompaniesWorked` | Integer | Number of companies employee has worked at previously (values: 0–9) |
 | `YearsAtCompany` | Integer | Number of years employee has been with current company (values: 0–40) |
 
+
+[View SQL Queries](Employee_Attrition/Employee_Attrition.sql)
+
 ---
 
 ## Business Problem
